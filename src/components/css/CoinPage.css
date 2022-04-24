@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;800&display=swap');
+
+.coin-title{
+    font-family: 'Montserrat' !important;
+    font-weight: bold !important;
+}
+.aaa{
+    margin: 0.3rem !important;
+    font-family: 'Montserrat' !important;
+    padding: 0.3rem !important;
+}
+.sp{
+  font-family: 'Montserrat' !important;
+    font-weight: bold !important;
+}
+
+@media only screen and (max-width: 600px) {
+    .aaa {
+      align-self: start;
+    }
+  }

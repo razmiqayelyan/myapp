@@ -1,0 +1,11 @@
+.Select{
+    min-width: 100px;
+    min-height: 40px;
+    margin-right: 15px;
+}
+
+.title{
+    flex: 1;
+    color: gold;
+    cursor: pointer;
+}
